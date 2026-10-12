@@ -1,4 +1,3 @@
-@"
 # Repository Tugas PABW
 
 Repository ini digunakan untuk mengumpulkan tugas mata kuliah Pemrograman Aplikasi Berbasis Web (PABW).
@@ -11,4 +10,3 @@ Repository ini digunakan untuk mengumpulkan tugas mata kuliah Pemrograman Aplika
 
 ## Daftar Folder
 - [PABW](./pabw/): Kumpulan tugas mata kuliah PABW.
-"@ | Set-Content -Encoding UTF8 ".\README.md"
